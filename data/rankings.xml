@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FantasyBasketballNerd service="Draft Rankings">    <!-- Free to use but please mention that data is powered by FantasyBasketballNerd.com. A link to FantasyBasketballNerd.com is always appreciated! -->
+    <Player>
+        <playerId>493</playerId>
+        <position>SG</position>
+        <rankPos>1</rankPos>
+        <rankOverall>1</rankOverall>
+        <name>James Harden</name>
+        <team>HOU</team>
+        <standDev>1.299</standDev>
+    </Player>
+    <Player>
+        <playerId>832</playerId>
+        <position>PG</position>
+        <rankPos>1</rankPos>
+        <rankOverall>2</rankOverall>
+        <name>Luka Doncic</name>
+        <team>DAL</team>
+        <standDev>0.433</standDev>
+    </Player>
+    <Player>
+        <playerId>525</playerId>
+        <position>PF</position>
+        <rankPos>1</rankPos>
+        <rankOverall>3</rankOverall>
+        <name>Anthony Davis</name>
+        <team>LAL</team>
+        <standDev>1.639</standDev>
+    </Player>
+    <Player>
+        <playerId>168</playerId>
+        <position>PF</position>
+        <rankPos>2</rankPos>
+        <rankOverall>4</rankOverall>
+        <name>Giannis Antetokounmpo</name>
+        <team>MIL</team>
+        <standDev>1.639</standDev>
+    </Player>
+    <Player>
+        <playerId>313</playerId>
+        <position>C</position>
+        <rankPos>1</rankPos>
+        <rankOverall>5</rankOverall>
+        <name>Karl-Anthony Towns</name>
+        <team>MIN</team>
+        <standDev>0.500</standDev>
+    </Player>
+    <Player>
+        <playerId>287</playerId>
+        <position>C</position>
+        <rankPos>2</rankPos>
+        <rankOverall>6</rankOverall>
+        <name>Nikola Jokic</name>
+        <team>DEN</team>
+        <standDev>1.920</standDev>
+    </Player>
+    <Player>
+        <playerId>373</playerId>
+        <position>PG</position>
+        <rankPos>2</rankPos>
+        <rankOverall>7</rankOverall>
+        <name>Stephen Curry</name>
+        <team>GSW</team>
+        <standDev>1.500</standDev>
+    </Player>
+    <Player>
+        <playerId>344</playerId>
+        <position>PG</position>
+        <rankPos>3</rankPos>
+        <rankOverall>8</rankOverall>
+        <name>Damian Lillard</name>
+        <team>POR</team>
+        <standDev>0.433</standDev>
+    </Player>
+    <Player>
+        <playerId>780</playerId>
+        <position>PG</position>
+        <rankPos>4</rankPos>
+        <rankOverall>9</rankOverall>
+        <name>Trae Young</name>
+        <team>ATL</team>
+        <standDev>0.707</standDev>
+    </Player>
+    <Player>
+        <playerId>119</playerId>
+        <position>PG</position>
+        <rankPos>5</rankPos>
+        <rankOverall>10</rankOverall>
+        <name>LeBron James</name>
+        <team>LAL</team>
+        <standDev>1.658</standDev>
+    </Player>
+    <Player>
+        <playerId>596</playerId>
+        <position>PF</position>
+        <rankPos>3</rankPos>
+        <rankOverall>11</rankOverall>
+        <name>Jayson Tatum</name>
+        <team>BOS</team>
+        <standDev>1.658</standDev>
+    </Player>
+    <Player>
+        <playerId>374</playerId>
+        <position>PF</position>
+        <rankPos>4</rankPos>
+        <rankOverall>12</rankOverall>
+        <name>Kevin Durant</name>
+        <team>BKN</team>
+        <standDev>2.449</standDev>
+    </Player>
+    <Player>
+        <playerId>432</playerId>
+        <position>SG</position>
+        <rankPos>2</rankPos>
+        <rankOverall>13</rankOverall>
+        <name>Devin Booker</name>
+        <team>PHX</team>
+        <standDev>1.500</standDev>
+    </Player>
+    <Player>
+        <playerId>61</playerId>
+        <position>C</position>
+        <rankPos>3</rankPos>
+        <rankOverall>14</rankOverall>
+        <name>Joel Embiid</name>
+        <team>PHI</team>
+        <standDev>0.500</standDev>
+    </Player>
+    <Player>
+        <playerId>553</playerId>
+        <position>SF</position>
+        <rankPos>1</rankPos>
+        <rankOverall>15</rankOverall>
+        <name>Kawhi Leonard</name>
+        <team>LAC</team>
+        <standDev>4.918</standDev>
+    </Player>
+    <Player>
+        <playerId>264</playerId>
+        <position>SG</position>
+        <rankPos>3</rankPos>
+        <rankOverall>16</rankOverall>
+        <name>Bradley Beal</name>
+        <team>WAS</team>
+        <standDev>0.829</standDev>
+    </Player>
+    <Player>
+        <playerId>93</playerId>
+        <position>SF</position>
+        <rankPos>2</rankPos>
+        <rankOverall>17</rankOverall>
+        <name>Jimmy Butler</name>
+        <team>MIA</team>
+        <standDev>0.707</standDev>
+    </Player>
+    <Player>
+        <playerId>73</playerId>
+        <position>PG</position>
+        <rankPos>6</rankPos>
+        <rankOverall>18</rankOverall>
+        <name>Ben Simmons</name>
+        <team>PHI</team>
+        <standDev>4.657</standDev>
+    </Player>
+    <Player>
+        <playerId>645</playerId>
+        <position>C</position>
+        <rankPos>4</rankPos>
+        <rankOverall>19</rankOverall>
+        <name>Bam Adebayo</name>
+        <team>MIA</team>
+        <standDev>6.364</standDev>
+    </Player>
+    <Player>
+        <playerId>823</playerId>
+        <position>C</position>
+        <rankPos>5</rankPos>
+        <rankOverall>20</rankOverall>
+        <name>Deandre Ayton</name>
+        <team>PHX</team>
+        <standDev>4.493</standDev>
+    </Player>
+    <Player>
+        <playerId>334</playerId>
+        <position>PG</position>
+        <rankPos>7</rankPos>
+        <rankOverall>21</rankOverall>
+        <name>Russell Westbrook</name>
+        <team>WAS</team>
+        <standDev>4.528</standDev>
+    </Player>
+    <Player>
+        <playerId>154</playerId>
+        <position>SG</position>
+        <rankPos>4</rankPos>
+        <rankOverall>22</rankOverall>
+        <name>Paul George</name>
+        <team>LAC</team>
+        <standDev>2.487</standDev>
+    </Player>
+    <Player>
+        <playerId>118</playerId>
+        <position>PG</position>
+        <rankPos>8</rankPos>
+        <rankOverall>23</rankOverall>
+        <name>Kyrie Irving</name>
+        <team>BKN</team>
+        <standDev>0.707</standDev>
+    </Player>
+    <Player>
+        <playerId>814</playerId>
+        <position>PG</position>
+        <rankPos>9</rankPos>
+        <rankOverall>24</rankOverall>
+        <name>Shai Gilgeous-Alexander</name>
+        <team>OKC</team>
+        <standDev>3.202</standDev>
+    </Player>
+    <Player>
+        <playerId>88</playerId>
+        <position>PF</position>
+        <rankPos>5</rankPos>
+        <rankOverall>25</rankOverall>
+        <name>Pascal Siakam</name>
+        <team>TOR</team>
+        <standDev>5.050</standDev>
+    </Player>
+    <Player>
+        <playerId>260</playerId>
+        <position>C</position>
+        <rankPos>6</rankPos>
+        <rankOverall>26</rankOverall>
+        <name>Nikola Vucevic</name>
+        <team>ORL</team>
+        <standDev>3.000</standDev>
+    </Player>
+    <Player>
+        <playerId>635</playerId>
+        <position>PF</position>
+        <rankPos>6</rankPos>
+        <rankOverall>27</rankOverall>
+        <name>John Collins</name>
+        <team>ATL</team>
+        <standDev>10.568</standDev>
+    </Player>
+    <Player>
+        <playerId>135</playerId>
+        <position>C</position>
+        <rankPos>7</rankPos>
+        <rankOverall>28</rankOverall>
+        <name>Andre Drummond</name>
+        <team>CLE</team>
+        <standDev>4.763</standDev>
+    </Player>
+    <Player>
+        <playerId>357</playerId>
+        <position>C</position>
+        <rankPos>8</rankPos>
+        <rankOverall>29</rankOverall>
+        <name>Rudy Gobert</name>
+        <team>UTA</team>
+        <standDev>2.915</standDev>
+    </Player>
+    <Player>
+        <playerId>415</playerId>
+        <position>SF</position>
+        <rankPos>3</rankPos>
+        <rankOverall>30</rankOverall>
+        <name>Brandon Ingram</name>
+        <team>NOP</team>
+        <standDev>3.536</standDev>
+    </Player>
+    <Player>
+        <playerId>674</playerId>
+        <position>SG</position>
+        <rankPos>5</rankPos>
+        <rankOverall>31</rankOverall>
+        <name>Donovan Mitchell</name>
+        <team>UTA</team>
+        <standDev>6.124</standDev>
+    </Player>
+    <Player>
+        <playerId>401</playerId>
+        <position>PG</position>
+        <rankPos>10</rankPos>
+        <rankOverall>32</rankOverall>
+        <name>Chris Paul</name>
+        <team>PHX</team>
+        <standDev>3.082</standDev>
+    </Player>
+    <Player>
+        <playerId>533</playerId>
+        <position>PG</position>
+        <rankPos>11</rankPos>
+        <rankOverall>33</rankOverall>
+        <name>Jrue Holiday</name>
+        <team>MIL</team>
+        <standDev>6.759</standDev>
+    </Player>
+    <Player>
+        <playerId>305</playerId>
+        <position>SG</position>
+        <rankPos>6</rankPos>
+        <rankOverall>34</rankOverall>
+        <name>Zach LaVine</name>
+        <team>CHI</team>
+        <standDev>8.411</standDev>
+    </Player>
+    <Player>
+        <playerId>975</playerId>
+        <position>PG</position>
+        <rankPos>12</rankPos>
+        <rankOverall>35</rankOverall>
+        <name>Ja Morant</name>
+        <team>MEM</team>
+        <standDev>7.822</standDev>
+    </Player>
+    <Player>
+        <playerId>177</playerId>
+        <position>SF</position>
+        <rankPos>4</rankPos>
+        <rankOverall>36</rankOverall>
+        <name>Khris Middleton</name>
+        <team>MIL</team>
+        <standDev>2.773</standDev>
+    </Player>
+    <Player>
+        <playerId>981</playerId>
+        <position>PF</position>
+        <rankPos>7</rankPos>
+        <rankOverall>37</rankOverall>
+        <name>Zion Williamson</name>
+        <team>NOP</team>
+        <standDev>10.802</standDev>
+    </Player>
+    <Player>
+        <playerId>331</playerId>
+        <position>PF</position>
+        <rankPos>8</rankPos>
+        <rankOverall>38</rankOverall>
+        <name>Domantas Sabonis</name>
+        <team>IND</team>
+        <standDev>4.763</standDev>
+    </Player>
+    <Player>
+        <playerId>293</playerId>
+        <position>C</position>
+        <rankPos>9</rankPos>
+        <rankOverall>39</rankOverall>
+        <name>Jusuf Nurkic</name>
+        <team>POR</team>
+        <standDev>2.179</standDev>
+    </Player>
+    <Player>
+        <playerId>81</playerId>
+        <position>PG</position>
+        <rankPos>13</rankPos>
+        <rankOverall>40</rankOverall>
+        <name>Kyle Lowry</name>
+        <team>TOR</team>
+        <standDev>3.317</standDev>
+    </Player>
+    <Player>
+        <playerId>291</playerId>
+        <position>PG</position>
+        <rankPos>14</rankPos>
+        <rankOverall>41</rankOverall>
+        <name>Jamal Murray</name>
+        <team>DEN</team>
+        <standDev>4.717</standDev>
+    </Player>
+    <Player>
+        <playerId>79</playerId>
+        <position>SF</position>
+        <rankPos>5</rankPos>
+        <rankOverall>42</rankOverall>
+        <name>DeMar DeRozan</name>
+        <team>SAS</team>
+        <standDev>4.950</standDev>
+    </Player>
+    <Player>
+        <playerId>755</playerId>
+        <position>C</position>
+        <rankPos>10</rankPos>
+        <rankOverall>43</rankOverall>
+        <name>Mitchell Robinson</name>
+        <team>NYK</team>
+        <standDev>4.380</standDev>
+    </Player>
+    <Player>
+        <playerId>566</playerId>
+        <position>SG</position>
+        <rankPos>7</rankPos>
+        <rankOverall>44</rankOverall>
+        <name>Fred VanVleet</name>
+        <team>TOR</team>
+        <standDev>4.717</standDev>
+    </Player>
+    <Player>
+        <playerId>701</playerId>
+        <position>PG</position>
+        <rankPos>15</rankPos>
+        <rankOverall>45</rankOverall>
+        <name>De'Aaron Fox</name>
+        <team>SAC</team>
+        <standDev>3.464</standDev>
+    </Player>
+    <Player>
+        <playerId>422</playerId>
+        <position>SG</position>
+        <rankPos>8</rankPos>
+        <rankOverall>46</rankOverall>
+        <name>D'Angelo Russell</name>
+        <team>MIN</team>
+        <standDev>6.978</standDev>
+    </Player>
+    <Player>
+        <playerId>223</playerId>
+        <position>C</position>
+        <rankPos>11</rankPos>
+        <rankOverall>47</rankOverall>
+        <name>Christian Wood</name>
+        <team>HOU</team>
+        <standDev>9.391</standDev>
+    </Player>
+    <Player>
+        <playerId>139</playerId>
+        <position>PF</position>
+        <rankPos>9</rankPos>
+        <rankOverall>48</rankOverall>
+        <name>Tobias Harris</name>
+        <team>PHI</team>
+        <standDev>9.912</standDev>
+    </Player>
+    <Player>
+        <playerId>51</playerId>
+        <position>C</position>
+        <rankPos>12</rankPos>
+        <rankOverall>49</rankOverall>
+        <name>Kristaps Porzingis</name>
+        <team>DAL</team>
+        <standDev>6.837</standDev>
+    </Player>
+    <Player>
+        <playerId>539</playerId>
+        <position>PF</position>
+        <rankPos>10</rankPos>
+        <rankOverall>50</rankOverall>
+        <name>LaMarcus Aldridge</name>
+        <team>SAS</team>
+        <standDev>9.000</standDev>
+    </Player>
+    <Player>
+        <playerId>90</playerId>
+        <position>C</position>
+        <rankPos>13</rankPos>
+        <rankOverall>51</rankOverall>
+        <name>Jonas Valanciunas</name>
+        <team>MEM</team>
+        <standDev>2.861</standDev>
+    </Player>
+    <Player>
+        <playerId>345</playerId>
+        <position>SG</position>
+        <rankPos>9</rankPos>
+        <rankOverall>52</rankOverall>
+        <name>C.J. McCollum</name>
+        <team>POR</team>
+        <standDev>5.262</standDev>
+    </Player>
+    <Player>
+        <playerId>445</playerId>
+        <position>SF</position>
+        <rankPos>6</rankPos>
+        <rankOverall>53</rankOverall>
+        <name>T.J. Warren</name>
+        <team>IND</team>
+        <standDev>6.442</standDev>
+    </Player>
+    <Player>
+        <playerId>358</playerId>
+        <position>SF</position>
+        <rankPos>7</rankPos>
+        <rankOverall>54</rankOverall>
+        <name>Gordon Hayward</name>
+        <team>CHA</team>
+        <standDev>3.767</standDev>
+    </Player>
+    <Player>
+        <playerId>242</playerId>
+        <position>C</position>
+        <rankPos>14</rankPos>
+        <rankOverall>55</rankOverall>
+        <name>Hassan Whiteside</name>
+        <team>SAC</team>
+        <standDev>1.920</standDev>
+    </Player>
+    <Player>
+        <playerId>489</playerId>
+        <position>C</position>
+        <rankPos>15</rankPos>
+        <rankOverall>56</rankOverall>
+        <name>Clint Capela</name>
+        <team>ATL</team>
+        <standDev>4.265</standDev>
+    </Player>
+    <Player>
+        <playerId>170</playerId>
+        <position>PG</position>
+        <rankPos>16</rankPos>
+        <rankOverall>57</rankOverall>
+        <name>Malcolm Brogdon</name>
+        <team>IND</team>
+        <standDev>4.243</standDev>
+    </Player>
+    <Player>
+        <playerId>3</playerId>
+        <position>SF</position>
+        <rankPos>8</rankPos>
+        <rankOverall>58</rankOverall>
+        <name>Jaylen Brown</name>
+        <team>BOS</team>
+        <standDev>15.254</standDev>
+    </Player>
+    <Player>
+        <playerId>60</playerId>
+        <position>PF</position>
+        <rankPos>11</rankPos>
+        <rankOverall>59</rankOverall>
+        <name>Robert Covington</name>
+        <team>POR</team>
+        <standDev>4.493</standDev>
+    </Player>
+    <Player>
+        <playerId>272</playerId>
+        <position>SF</position>
+        <rankPos>9</rankPos>
+        <rankOverall>60</rankOverall>
+        <name>Kelly Oubre Jr.</name>
+        <team>GSW</team>
+        <standDev>9.705</standDev>
+    </Player>
+    <Player>
+        <playerId>797</playerId>
+        <position>SF</position>
+        <rankPos>10</rankPos>
+        <rankOverall>61</rankOverall>
+        <name>Michael Porter Jr.</name>
+        <team>DEN</team>
+        <standDev>8.337</standDev>
+    </Player>
+    <Player>
+        <playerId>687</playerId>
+        <position>PG</position>
+        <rankPos>17</rankPos>
+        <rankOverall>62</rankOverall>
+        <name>Lonzo Ball</name>
+        <team>NOP</team>
+        <standDev>2.449</standDev>
+    </Player>
+    <Player>
+        <playerId>277</playerId>
+        <position>PG</position>
+        <rankPos>18</rankPos>
+        <rankOverall>63</rankOverall>
+        <name>John Wall</name>
+        <team>HOU</team>
+        <standDev>4.763</standDev>
+    </Player>
+    <Player>
+        <playerId>845</playerId>
+        <position>PF</position>
+        <rankPos>12</rankPos>
+        <rankOverall>64</rankOverall>
+        <name>Jaren Jackson Jr.</name>
+        <team>MEM</team>
+        <standDev>15.945</standDev>
+    </Player>
+    <Player>
+        <playerId>531</playerId>
+        <position>SG</position>
+        <rankPos>10</rankPos>
+        <rankOverall>65</rankOverall>
+        <name>Buddy Hield</name>
+        <team>SAC</team>
+        <standDev>8.871</standDev>
+    </Player>
+    <Player>
+        <playerId>375</playerId>
+        <position>PF</position>
+        <rankPos>13</rankPos>
+        <rankOverall>66</rankOverall>
+        <name>Draymond Green</name>
+        <team>GSW</team>
+        <standDev>9.434</standDev>
+    </Player>
+    <Player>
+        <playerId>164</playerId>
+        <position>C</position>
+        <rankPos>16</rankPos>
+        <rankOverall>67</rankOverall>
+        <name>Myles Turner</name>
+        <team>IND</team>
+        <standDev>12.971</standDev>
+    </Player>
+    <Player>
+        <playerId>555</playerId>
+        <position>PG</position>
+        <rankPos>19</rankPos>
+        <rankOverall>68</rankOverall>
+        <name>Dejounte Murray</name>
+        <team>SAS</team>
+        <standDev>8.411</standDev>
+    </Player>
+    <Player>
+        <playerId>221</playerId>
+        <position>PG</position>
+        <rankPos>20</rankPos>
+        <rankOverall>69</rankOverall>
+        <name>Kemba Walker</name>
+        <team>BOS</team>
+        <standDev>13.971</standDev>
+    </Player>
+    <Player>
+        <playerId>316</playerId>
+        <position>C</position>
+        <rankPos>17</rankPos>
+        <rankOverall>70</rankOverall>
+        <name>Steven Adams</name>
+        <team>NOP</team>
+        <standDev>9.097</standDev>
+    </Player>
+    <Player>
+        <playerId>420</playerId>
+        <position>PF</position>
+        <rankPos>14</rankPos>
+        <rankOverall>71</rankOverall>
+        <name>Julius Randle</name>
+        <team>NYK</team>
+        <standDev>1.732</standDev>
+    </Player>
+    <Player>
+        <playerId>619</playerId>
+        <position>PF</position>
+        <rankPos>15</rankPos>
+        <rankOverall>72</rankOverall>
+        <name>Lauri Markkanen</name>
+        <team>CHI</team>
+        <standDev>12.008</standDev>
+    </Player>
+    <Player>
+        <playerId>431</playerId>
+        <position>SG</position>
+        <rankPos>11</rankPos>
+        <rankOverall>73</rankOverall>
+        <name>Eric Bledsoe</name>
+        <team>NOP</team>
+        <standDev>2.872</standDev>
+    </Player>
+    <Player>
+        <playerId>972</playerId>
+        <position>C</position>
+        <rankPos>18</rankPos>
+        <rankOverall>74</rankOverall>
+        <name>Brandon Clarke</name>
+        <team>MEM</team>
+        <standDev>18.514</standDev>
+    </Player>
+    <Player>
+        <playerId>327</playerId>
+        <position>SG</position>
+        <rankPos>12</rankPos>
+        <rankOverall>75</rankOverall>
+        <name>Victor Oladipo</name>
+        <team>IND</team>
+        <standDev>6.364</standDev>
+    </Player>
+    <Player>
+        <playerId>250</playerId>
+        <position>PF</position>
+        <rankPos>16</rankPos>
+        <rankOverall>76</rankOverall>
+        <name>Aaron Gordon</name>
+        <team>ORL</team>
+        <standDev>3.419</standDev>
+    </Player>
+    <Player>
+        <playerId>16</playerId>
+        <position>SG</position>
+        <rankPos>13</rankPos>
+        <rankOverall>77</rankOverall>
+        <name>Marcus Smart</name>
+        <team>BOS</team>
+        <standDev>8.197</standDev>
+    </Player>
+    <Player>
+        <playerId>782</playerId>
+        <position>PG</position>
+        <rankPos>21</rankPos>
+        <rankOverall>78</rankOverall>
+        <name>Devonte' Graham</name>
+        <team>CHA</team>
+        <standDev>9.314</standDev>
+    </Player>
+    <Player>
+        <playerId>125</playerId>
+        <position>PF</position>
+        <rankPos>17</rankPos>
+        <rankOverall>79</rankOverall>
+        <name>Kevin Love</name>
+        <team>CLE</team>
+        <standDev>13.423</standDev>
+    </Player>
+    <Player>
+        <playerId>690</playerId>
+        <position>C</position>
+        <rankPos>19</rankPos>
+        <rankOverall>80</rankOverall>
+        <name>Thomas Bryant</name>
+        <team>WAS</team>
+        <standDev>17.470</standDev>
+    </Player>
+    <Player>
+        <playerId>314</playerId>
+        <position>SG</position>
+        <rankPos>14</rankPos>
+        <rankOverall>81</rankOverall>
+        <name>Andrew Wiggins</name>
+        <team>GSW</team>
+        <standDev>7.628</standDev>
+    </Player>
+    <Player>
+        <playerId>6</playerId>
+        <position>C</position>
+        <rankPos>20</rankPos>
+        <rankOverall>82</rankOverall>
+        <name>Al Horford</name>
+        <team>OKC</team>
+        <standDev>11.258</standDev>
+    </Player>
+    <Player>
+        <playerId>764</playerId>
+        <position>SG</position>
+        <rankPos>15</rankPos>
+        <rankOverall>83</rankOverall>
+        <name>Collin Sexton</name>
+        <team>CLE</team>
+        <standDev>8.526</standDev>
+    </Player>
+    <Player>
+        <playerId>896</playerId>
+        <position>PG</position>
+        <rankPos>22</rankPos>
+        <rankOverall>84</rankOverall>
+        <name>Coby White</name>
+        <team>CHI</team>
+        <standDev>13.200</standDev>
+    </Player>
+    <Player>
+        <playerId>64</playerId>
+        <position>C</position>
+        <rankPos>21</rankPos>
+        <rankOverall>85</rankOverall>
+        <name>Richaun Holmes</name>
+        <team>SAC</team>
+        <standDev>16.560</standDev>
+    </Player>
+    <Player>
+        <playerId>923</playerId>
+        <position>SG</position>
+        <rankPos>16</rankPos>
+        <rankOverall>86</rankOverall>
+        <name>Tyler Herro</name>
+        <team>MIA</team>
+        <standDev>5.723</standDev>
+    </Player>
+    <Player>
+        <playerId>311</playerId>
+        <position>PG</position>
+        <rankPos>23</rankPos>
+        <rankOverall>87</rankOverall>
+        <name>Ricky Rubio</name>
+        <team>MIN</team>
+        <standDev>6.833</standDev>
+    </Player>
+    <Player>
+        <playerId>33</playerId>
+        <position>C</position>
+        <rankPos>22</rankPos>
+        <rankOverall>88</rankOverall>
+        <name>Brook Lopez</name>
+        <team>MIL</team>
+        <standDev>1.732</standDev>
+    </Player>
+    <Player>
+        <playerId>494</playerId>
+        <position>C</position>
+        <rankPos>23</rankPos>
+        <rankOverall>89</rankOverall>
+        <name>Montrezl Harrell</name>
+        <team>LAL</team>
+        <standDev>16.294</standDev>
+    </Player>
+    <Player>
+        <playerId>507</playerId>
+        <position>PG</position>
+        <rankPos>24</rankPos>
+        <rankOverall>90</rankOverall>
+        <name>Mike Conley</name>
+        <team>UTA</team>
+        <standDev>10.662</standDev>
+    </Player>
+    <Player>
+        <playerId>386</playerId>
+        <position>G</position>
+        <rankPos>1</rankPos>
+        <rankOverall>91</rankOverall>
+        <name>Klay Thompson</name>
+        <team>GSW</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>283</playerId>
+        <position>PF</position>
+        <rankPos>18</rankPos>
+        <rankOverall>92</rankOverall>
+        <name>Danilo Gallinari</name>
+        <team>ATL</team>
+        <standDev>3.841</standDev>
+    </Player>
+    <Player>
+        <playerId>824</playerId>
+        <position>SF</position>
+        <rankPos>11</rankPos>
+        <rankOverall>93</rankOverall>
+        <name>Mikal Bridges</name>
+        <team>PHX</team>
+        <standDev>11.554</standDev>
+    </Player>
+    <Player>
+        <playerId>201</playerId>
+        <position>SG</position>
+        <rankPos>17</rankPos>
+        <rankOverall>94</rankOverall>
+        <name>Dennis Schroder</name>
+        <team>LAL</team>
+        <standDev>18.780</standDev>
+    </Player>
+    <Player>
+        <playerId>762</playerId>
+        <position>C</position>
+        <rankPos>24</rankPos>
+        <rankOverall>95</rankOverall>
+        <name>Wendell Carter Jr.</name>
+        <team>CHI</team>
+        <standDev>23.541</standDev>
+    </Player>
+    <Player>
+        <playerId>62</playerId>
+        <position>SF</position>
+        <rankPos>12</rankPos>
+        <rankOverall>96</rankOverall>
+        <name>Jerami Grant</name>
+        <team>DET</team>
+        <standDev>16.437</standDev>
+    </Player>
+    <Player>
+        <playerId>611</playerId>
+        <position>PG</position>
+        <rankPos>25</rankPos>
+        <rankOverall>97</rankOverall>
+        <name>Markelle Fultz</name>
+        <team>ORL</team>
+        <standDev>5.309</standDev>
+    </Player>
+    <Player>
+        <playerId>728</playerId>
+        <position>SG</position>
+        <rankPos>18</rankPos>
+        <rankOverall>98</rankOverall>
+        <name>Derrick White</name>
+        <team>SAS</team>
+        <standDev>20.067</standDev>
+    </Player>
+    <Player>
+        <playerId>1031</playerId>
+        <position>SG</position>
+        <rankPos>19</rankPos>
+        <rankOverall>99</rankOverall>
+        <name>LaMelo Ball</name>
+        <team>CHA</team>
+        <standDev>17.412</standDev>
+    </Player>
+    <Player>
+        <playerId>600</playerId>
+        <position>C</position>
+        <rankPos>25</rankPos>
+        <rankOverall>100</rankOverall>
+        <name>Jarrett Allen</name>
+        <team>BKN</team>
+        <standDev>8.031</standDev>
+    </Player>
+    <Player>
+        <playerId>249</playerId>
+        <position>SG</position>
+        <rankPos>20</rankPos>
+        <rankOverall>101</rankOverall>
+        <name>Evan Fournier</name>
+        <team>ORL</team>
+        <standDev>3.000</standDev>
+    </Player>
+    <Player>
+        <playerId>395</playerId>
+        <position>PF</position>
+        <rankPos>19</rankPos>
+        <rankOverall>102</rankOverall>
+        <name>Blake Griffin</name>
+        <team>DET</team>
+        <standDev>13.791</standDev>
+    </Player>
+    <Player>
+        <playerId>699</playerId>
+        <position>SG</position>
+        <rankPos>21</rankPos>
+        <rankOverall>103</rankOverall>
+        <name>Bogdan Bogdanovic</name>
+        <team>ATL</team>
+        <standDev>12.420</standDev>
+    </Player>
+    <Player>
+        <playerId>237</playerId>
+        <position>SF</position>
+        <rankPos>13</rankPos>
+        <rankOverall>104</rankOverall>
+        <name>Josh Richardson</name>
+        <team>DAL</team>
+        <standDev>17.154</standDev>
+    </Player>
+    <Player>
+        <playerId>31</playerId>
+        <position>SG</position>
+        <rankPos>22</rankPos>
+        <rankOverall>105</rankOverall>
+        <name>Caris LeVert</name>
+        <team>BKN</team>
+        <standDev>10.308</standDev>
+    </Player>
+    <Player>
+        <playerId>614</playerId>
+        <position>SF</position>
+        <rankPos>14</rankPos>
+        <rankOverall>106</rankOverall>
+        <name>OG Anunoby</name>
+        <team>TOR</team>
+        <standDev>32.568</standDev>
+    </Player>
+    <Player>
+        <playerId>543</playerId>
+        <position>PF</position>
+        <rankPos>20</rankPos>
+        <rankOverall>107</rankOverall>
+        <name>Davis Bertans</name>
+        <team>WAS</team>
+        <standDev>13.863</standDev>
+    </Player>
+    <Player>
+        <playerId>424</playerId>
+        <position>SG</position>
+        <rankPos>23</rankPos>
+        <rankOverall>108</rankOverall>
+        <name>Louis Williams</name>
+        <team>LAC</team>
+        <standDev>17.628</standDev>
+    </Player>
+    <Player>
+        <playerId>22</playerId>
+        <position>SF</position>
+        <rankPos>15</rankPos>
+        <rankOverall>109</rankOverall>
+        <name>Bojan Bogdanovic</name>
+        <team>UTA</team>
+        <standDev>7.890</standDev>
+    </Player>
+    <Player>
+        <playerId>253</playerId>
+        <position>C</position>
+        <rankPos>26</rankPos>
+        <rankOverall>110</rankOverall>
+        <name>Serge Ibaka</name>
+        <team>LAC</team>
+        <standDev>0.829</standDev>
+    </Player>
+    <Player>
+        <playerId>828</playerId>
+        <position>PF</position>
+        <rankPos>21</rankPos>
+        <rankOverall>111</rankOverall>
+        <name>Marvin Bagley III</name>
+        <team>SAC</team>
+        <standDev>12.316</standDev>
+    </Player>
+    <Player>
+        <playerId>273</playerId>
+        <position>SF</position>
+        <rankPos>16</rankPos>
+        <rankOverall>112</rankOverall>
+        <name>Otto Porter Jr.</name>
+        <team>CHI</team>
+        <standDev>3.000</standDev>
+    </Player>
+    <Player>
+        <playerId>773</playerId>
+        <position>SG</position>
+        <rankPos>24</rankPos>
+        <rankOverall>113</rankOverall>
+        <name>Donte DiVincenzo</name>
+        <team>MIL</team>
+        <standDev>16.932</standDev>
+    </Player>
+    <Player>
+        <playerId>921</playerId>
+        <position>PF</position>
+        <rankPos>22</rankPos>
+        <rankOverall>114</rankOverall>
+        <name>PJ Washington</name>
+        <team>CHA</team>
+        <standDev>5.262</standDev>
+    </Player>
+    <Player>
+        <playerId>931</playerId>
+        <position>PF</position>
+        <rankPos>23</rankPos>
+        <rankOverall>115</rankOverall>
+        <name>Rui Hachimura</name>
+        <team>WAS</team>
+        <standDev>6.610</standDev>
+    </Player>
+    <Player>
+        <playerId>53</playerId>
+        <position>PG</position>
+        <rankPos>26</rankPos>
+        <rankOverall>116</rankOverall>
+        <name>Derrick Rose</name>
+        <team>DET</team>
+        <standDev>3.000</standDev>
+    </Player>
+    <Player>
+        <playerId>15</playerId>
+        <position>SG</position>
+        <rankPos>25</rankPos>
+        <rankOverall>117</rankOverall>
+        <name>Terry Rozier</name>
+        <team>CHA</team>
+        <standDev>11.987</standDev>
+    </Player>
+    <Player>
+        <playerId>1050</playerId>
+        <position>C</position>
+        <rankPos>27</rankPos>
+        <rankOverall>118</rankOverall>
+        <name>James Wiseman</name>
+        <team>GSW</team>
+        <standDev>12.091</standDev>
+    </Player>
+    <Player>
+        <playerId>859</playerId>
+        <position>SG</position>
+        <rankPos>26</rankPos>
+        <rankOverall>119</rankOverall>
+        <name>Duncan Robinson</name>
+        <team>MIA</team>
+        <standDev>22.820</standDev>
+    </Player>
+    <Player>
+        <playerId>228</playerId>
+        <position>PG</position>
+        <rankPos>27</rankPos>
+        <rankOverall>120</rankOverall>
+        <name>Goran Dragic</name>
+        <team>MIA</team>
+        <standDev>9.000</standDev>
+    </Player>
+    <Player>
+        <playerId>419</playerId>
+        <position>C</position>
+        <rankPos>28</rankPos>
+        <rankOverall>121</rankOverall>
+        <name>Larry Nance Jr.</name>
+        <team>CLE</team>
+        <standDev>0.866</standDev>
+    </Player>
+    <Player>
+        <playerId>885</playerId>
+        <position>SF</position>
+        <rankPos>17</rankPos>
+        <rankOverall>122</rankOverall>
+        <name>RJ Barrett</name>
+        <team>NYK</team>
+        <standDev>6.403</standDev>
+    </Player>
+    <Player>
+        <playerId>86</playerId>
+        <position>SF</position>
+        <rankPos>18</rankPos>
+        <rankOverall>123</rankOverall>
+        <name>Norman Powell</name>
+        <team>TOR</team>
+        <standDev>28.172</standDev>
+    </Player>
+    <Player>
+        <playerId>1015</playerId>
+        <position>SF</position>
+        <rankPos>19</rankPos>
+        <rankOverall>124</rankOverall>
+        <name>Obi Toppin</name>
+        <team>NYK</team>
+        <standDev>19.188</standDev>
+    </Player>
+    <Player>
+        <playerId>398</playerId>
+        <position>C</position>
+        <rankPos>29</rankPos>
+        <rankOverall>125</rankOverall>
+        <name>DeAndre Jordan</name>
+        <team>BKN</team>
+        <standDev>2.598</standDev>
+    </Player>
+    <Player>
+        <playerId>472</playerId>
+        <position>SG</position>
+        <rankPos>27</rankPos>
+        <rankOverall>126</rankOverall>
+        <name>Seth Curry</name>
+        <team>PHI</team>
+        <standDev>19.092</standDev>
+    </Player>
+    <Player>
+        <playerId>91</playerId>
+        <position>SG</position>
+        <rankPos>28</rankPos>
+        <rankOverall>127</rankOverall>
+        <name>Delon Wright</name>
+        <team>DET</team>
+        <standDev>46.332</standDev>
+    </Player>
+    <Player>
+        <playerId>597</playerId>
+        <position>C</position>
+        <rankPos>30</rankPos>
+        <rankOverall>128</rankOverall>
+        <name>Daniel Theis</name>
+        <team>BOS</team>
+        <standDev>10.500</standDev>
+    </Player>
+    <Player>
+        <playerId>1025</playerId>
+        <position>PG</position>
+        <rankPos>28</rankPos>
+        <rankOverall>129</rankOverall>
+        <name>Killian Hayes</name>
+        <team>DET</team>
+        <standDev>4.975</standDev>
+    </Player>
+    <Player>
+        <playerId>452</playerId>
+        <position>C</position>
+        <rankPos>31</rankPos>
+        <rankOverall>130</rankOverall>
+        <name>DeMarcus Cousins</name>
+        <team>HOU</team>
+        <standDev>14.500</standDev>
+    </Player>
+    <Player>
+        <playerId>1041</playerId>
+        <position>SF</position>
+        <rankPos>20</rankPos>
+        <rankOverall>131</rankOverall>
+        <name>Anthony Edwards</name>
+        <team>MIN</team>
+        <standDev>1.225</standDev>
+    </Player>
+    <Player>
+        <playerId>258</playerId>
+        <position>PG</position>
+        <rankPos>29</rankPos>
+        <rankOverall>132</rankOverall>
+        <name>Elfrid Payton</name>
+        <team>NYK</team>
+        <standDev>8.437</standDev>
+    </Player>
+    <Player>
+        <playerId>95</playerId>
+        <position>SG</position>
+        <rankPos>29</rankPos>
+        <rankOverall>133</rankOverall>
+        <name>Spencer Dinwiddie</name>
+        <team>BKN</team>
+        <standDev>18.715</standDev>
+    </Player>
+    <Player>
+        <playerId>279</playerId>
+        <position>SF</position>
+        <rankPos>21</rankPos>
+        <rankOverall>134</rankOverall>
+        <name>Will Barton</name>
+        <team>DEN</team>
+        <standDev>12.676</standDev>
+    </Player>
+    <Player>
+        <playerId>778</playerId>
+        <position>SG</position>
+        <rankPos>30</rankPos>
+        <rankOverall>135</rankOverall>
+        <name>Kevin Huerter</name>
+        <team>ATL</team>
+        <standDev>5.196</standDev>
+    </Player>
+    <Player>
+        <playerId>781</playerId>
+        <position>PF</position>
+        <rankPos>24</rankPos>
+        <rankOverall>136</rankOverall>
+        <name>Miles Bridges</name>
+        <team>CHA</team>
+        <standDev>23.931</standDev>
+    </Player>
+    <Player>
+        <playerId>361</playerId>
+        <position>SF</position>
+        <rankPos>22</rankPos>
+        <rankOverall>137</rankOverall>
+        <name>Joe Ingles</name>
+        <team>UTA</team>
+        <standDev>32.942</standDev>
+    </Player>
+    <Player>
+        <playerId>1022</playerId>
+        <position>PF</position>
+        <rankPos>25</rankPos>
+        <rankOverall>138</rankOverall>
+        <name>Patrick Williams</name>
+        <team>CHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>28</playerId>
+        <position>SF</position>
+        <rankPos>23</rankPos>
+        <rankOverall>139</rankOverall>
+        <name>Joe Harris</name>
+        <team>BKN</team>
+        <standDev>6.339</standDev>
+    </Player>
+    <Player>
+        <playerId>68</playerId>
+        <position>C</position>
+        <rankPos>32</rankPos>
+        <rankOverall>140</rankOverall>
+        <name>Nerlens Noel</name>
+        <team>NYK</team>
+        <standDev>15.628</standDev>
+    </Player>
+    <Player>
+        <playerId>280</playerId>
+        <position>SF</position>
+        <rankPos>24</rankPos>
+        <rankOverall>141</rankOverall>
+        <name>Malik Beasley</name>
+        <team>MIN</team>
+        <standDev>41.716</standDev>
+    </Player>
+    <Player>
+        <playerId>355</playerId>
+        <position>C</position>
+        <rankPos>33</rankPos>
+        <rankOverall>142</rankOverall>
+        <name>Derrick Favors</name>
+        <team>UTA</team>
+        <standDev>8.660</standDev>
+    </Player>
+    <Player>
+        <playerId>1053</playerId>
+        <position>SG</position>
+        <rankPos>31</rankPos>
+        <rankOverall>143</rankOverall>
+        <name>Tyrese Haliburton</name>
+        <team>SAC</team>
+        <standDev>44.685</standDev>
+    </Player>
+    <Player>
+        <playerId>427</playerId>
+        <position>C</position>
+        <rankPos>34</rankPos>
+        <rankOverall>144</rankOverall>
+        <name>Ivica Zubac</name>
+        <team>LAC</team>
+        <standDev>35.815</standDev>
+    </Player>
+    <Player>
+        <playerId>192</playerId>
+        <position>SG</position>
+        <rankPos>32</rankPos>
+        <rankOverall>145</rankOverall>
+        <name>Tim Hardaway Jr.</name>
+        <team>DAL</team>
+        <standDev>5.852</standDev>
+    </Player>
+    <Player>
+        <playerId>511</playerId>
+        <position>C</position>
+        <rankPos>35</rankPos>
+        <rankOverall>146</rankOverall>
+        <name>Marc Gasol</name>
+        <team>LAL</team>
+        <standDev>3.674</standDev>
+    </Player>
+    <Player>
+        <playerId>412</playerId>
+        <position>SF</position>
+        <rankPos>25</rankPos>
+        <rankOverall>147</rankOverall>
+        <name>Jordan Clarkson</name>
+        <team>UTA</team>
+        <standDev>15.594</standDev>
+    </Player>
+    <Player>
+        <playerId>679</playerId>
+        <position>C</position>
+        <rankPos>36</rankPos>
+        <rankOverall>148</rankOverall>
+        <name>Chris Boucher</name>
+        <team>TOR</team>
+        <standDev>8.871</standDev>
+    </Player>
+    <Player>
+        <playerId>198</playerId>
+        <position>PF</position>
+        <rankPos>26</rankPos>
+        <rankOverall>149</rankOverall>
+        <name>Paul Millsap</name>
+        <team>DEN</team>
+        <standDev>18.820</standDev>
+    </Player>
+    <Player>
+        <playerId>898</playerId>
+        <position>PG</position>
+        <rankPos>30</rankPos>
+        <rankOverall>150</rankOverall>
+        <name>Darius Garland</name>
+        <team>CLE</team>
+        <standDev>30.136</standDev>
+    </Player>
+    <Player>
+        <playerId>716</playerId>
+        <position>SG</position>
+        <rankPos>33</rankPos>
+        <rankOverall>151</rankOverall>
+        <name>Dillon Brooks</name>
+        <team>MEM</team>
+        <standDev>24.510</standDev>
+    </Player>
+    <Player>
+        <playerId>87</playerId>
+        <position>SF</position>
+        <rankPos>26</rankPos>
+        <rankOverall>152</rankOverall>
+        <name>Terrence Ross</name>
+        <team>ORL</team>
+        <standDev>29.871</standDev>
+    </Player>
+    <Player>
+        <playerId>468</playerId>
+        <position>SF</position>
+        <rankPos>27</rankPos>
+        <rankOverall>153</rankOverall>
+        <name>Harrison Barnes</name>
+        <team>SAC</team>
+        <standDev>17.015</standDev>
+    </Player>
+    <Player>
+        <playerId>925</playerId>
+        <position>PG</position>
+        <rankPos>31</rankPos>
+        <rankOverall>154</rankOverall>
+        <name>Kendrick Nunn</name>
+        <team>MIA</team>
+        <standDev>32.527</standDev>
+    </Player>
+    <Player>
+        <playerId>216</playerId>
+        <position>SF</position>
+        <rankPos>28</rankPos>
+        <rankOverall>155</rankOverall>
+        <name>Jeremy Lamb</name>
+        <team>IND</team>
+        <standDev>21.253</standDev>
+    </Player>
+    <Player>
+        <playerId>129</playerId>
+        <position>C</position>
+        <rankPos>37</rankPos>
+        <rankOverall>156</rankOverall>
+        <name>Tristan Thompson</name>
+        <team>BOS</team>
+        <standDev>21.943</standDev>
+    </Player>
+    <Player>
+        <playerId>403</playerId>
+        <position>SF</position>
+        <rankPos>29</rankPos>
+        <rankOverall>157</rankOverall>
+        <name>JJ Redick</name>
+        <team>NOP</team>
+        <standDev>8.437</standDev>
+    </Player>
+    <Player>
+        <playerId>793</playerId>
+        <position>PF</position>
+        <rankPos>27</rankPos>
+        <rankOverall>158</rankOverall>
+        <name>Troy Brown Jr.</name>
+        <team>WAS</team>
+        <standDev>15.000</standDev>
+    </Player>
+    <Player>
+        <playerId>1023</playerId>
+        <position>SF</position>
+        <rankPos>30</rankPos>
+        <rankOverall>159</rankOverall>
+        <name>Isaac Okoro</name>
+        <team>CLE</team>
+        <standDev>6.500</standDev>
+    </Player>
+    <Player>
+        <playerId>692</playerId>
+        <position>C</position>
+        <rankPos>38</rankPos>
+        <rankOverall>160</rankOverall>
+        <name>Kyle Kuzma</name>
+        <team>LAL</team>
+        <standDev>22.853</standDev>
+    </Player>
+    <Player>
+        <playerId>1030</playerId>
+        <position>C</position>
+        <rankPos>39</rankPos>
+        <rankOverall>161</rankOverall>
+        <name>Onyeka Okongwu</name>
+        <team>ATL</team>
+        <standDev>21.000</standDev>
+    </Player>
+    <Player>
+        <playerId>487</playerId>
+        <position>PG</position>
+        <rankPos>32</rankPos>
+        <rankOverall>162</rankOverall>
+        <name>Patrick Beverley</name>
+        <team>LAC</team>
+        <standDev>9.192</standDev>
+    </Player>
+    <Player>
+        <playerId>383</playerId>
+        <position>C</position>
+        <rankPos>40</rankPos>
+        <rankOverall>163</rankOverall>
+        <name>JaVale McGee</name>
+        <team>CLE</team>
+        <standDev>23.707</standDev>
+    </Player>
+    <Player>
+        <playerId>1067</playerId>
+        <position>PF</position>
+        <rankPos>28</rankPos>
+        <rankOverall>164</rankOverall>
+        <name>Devin Vassell</name>
+        <team>SAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>443</playerId>
+        <position>PF</position>
+        <rankPos>29</rankPos>
+        <rankOverall>165</rankOverall>
+        <name>P.J. Tucker</name>
+        <team>HOU</team>
+        <standDev>6.500</standDev>
+    </Player>
+    <Player>
+        <playerId>481</playerId>
+        <position>C</position>
+        <rankPos>41</rankPos>
+        <rankOverall>166</rankOverall>
+        <name>Dwight Powell</name>
+        <team>DAL</team>
+        <standDev>14.411</standDev>
+    </Player>
+    <Player>
+        <playerId>4</playerId>
+        <position>PF</position>
+        <rankPos>30</rankPos>
+        <rankOverall>167</rankOverall>
+        <name>Jae Crowder</name>
+        <team>PHX</team>
+        <standDev>24.779</standDev>
+    </Player>
+    <Player>
+        <playerId>131</playerId>
+        <position>C</position>
+        <rankPos>42</rankPos>
+        <rankOverall>168</rankOverall>
+        <name>Aron Baynes</name>
+        <team>TOR</team>
+        <standDev>25.328</standDev>
+    </Player>
+    <Player>
+        <playerId>749</playerId>
+        <position>C</position>
+        <rankPos>43</rankPos>
+        <rankOverall>169</rankOverall>
+        <name>Robert Williams</name>
+        <team>BOS</team>
+        <standDev>8.014</standDev>
+    </Player>
+    <Player>
+        <playerId>40</playerId>
+        <position>PF</position>
+        <rankPos>31</rankPos>
+        <rankOverall>170</rankOverall>
+        <name>Carmelo Anthony</name>
+        <team>POR</team>
+        <standDev>23.091</standDev>
+    </Player>
+    <Player>
+        <playerId>1010</playerId>
+        <position>SF</position>
+        <rankPos>31</rankPos>
+        <rankOverall>171</rankOverall>
+        <name>Aaron Nesmith</name>
+        <team>BOS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>166</playerId>
+        <position>PF</position>
+        <rankPos>32</rankPos>
+        <rankOverall>172</rankOverall>
+        <name>Thaddeus Young</name>
+        <team>CHI</team>
+        <standDev>13.199</standDev>
+    </Player>
+    <Player>
+        <playerId>274</playerId>
+        <position>PG</position>
+        <rankPos>33</rankPos>
+        <rankOverall>173</rankOverall>
+        <name>Tomas Satoransky</name>
+        <team>CHI</team>
+        <standDev>28.021</standDev>
+    </Player>
+    <Player>
+        <playerId>486</playerId>
+        <position>PF</position>
+        <rankPos>33</rankPos>
+        <rankOverall>174</rankOverall>
+        <name>Trevor Ariza</name>
+        <team>OKC</team>
+        <standDev>7.758</standDev>
+    </Player>
+    <Player>
+        <playerId>163</playerId>
+        <position>SG</position>
+        <rankPos>34</rankPos>
+        <rankOverall>175</rankOverall>
+        <name>Jeff Teague</name>
+        <team>BOS</team>
+        <standDev>48.101</standDev>
+    </Player>
+    <Player>
+        <playerId>916</playerId>
+        <position>SF</position>
+        <rankPos>32</rankPos>
+        <rankOverall>176</rankOverall>
+        <name>Cam Reddish</name>
+        <team>ATL</team>
+        <standDev>64.407</standDev>
+    </Player>
+    <Player>
+        <playerId>224</playerId>
+        <position>C</position>
+        <rankPos>44</rankPos>
+        <rankOverall>177</rankOverall>
+        <name>Cody Zeller</name>
+        <team>CHA</team>
+        <standDev>2.062</standDev>
+    </Player>
+    <Player>
+        <playerId>889</playerId>
+        <position>SF</position>
+        <rankPos>33</rankPos>
+        <rankOverall>178</rankOverall>
+        <name>Matisse Thybulle</name>
+        <team>PHI</team>
+        <standDev>4.243</standDev>
+    </Player>
+    <Player>
+        <playerId>899</playerId>
+        <position>SF</position>
+        <rankPos>34</rankPos>
+        <rankOverall>179</rankOverall>
+        <name>Kevin Porter Jr.</name>
+        <team>CLE</team>
+        <standDev>38.506</standDev>
+    </Player>
+    <Player>
+        <playerId>492</playerId>
+        <position>SF</position>
+        <rankPos>35</rankPos>
+        <rankOverall>180</rankOverall>
+        <name>Eric Gordon</name>
+        <team>HOU</team>
+        <standDev>4.637</standDev>
+    </Player>
+    <Player>
+        <playerId>72</playerId>
+        <position>PF</position>
+        <rankPos>34</rankPos>
+        <rankOverall>181</rankOverall>
+        <name>Dario Saric</name>
+        <team>PHX</team>
+        <standDev>11.388</standDev>
+    </Player>
+    <Player>
+        <playerId>348</playerId>
+        <position>C</position>
+        <rankPos>45</rankPos>
+        <rankOverall>182</rankOverall>
+        <name>Mason Plumlee</name>
+        <team>DET</team>
+        <standDev>57.639</standDev>
+    </Player>
+    <Player>
+        <playerId>862</playerId>
+        <position>C</position>
+        <rankPos>46</rankPos>
+        <rankOverall>183</rankOverall>
+        <name>Moritz Wagner</name>
+        <team>WAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>621</playerId>
+        <position>PF</position>
+        <rankPos>35</rankPos>
+        <rankOverall>184</rankOverall>
+        <name>Cedi Osman</name>
+        <team>CLE</team>
+        <standDev>15.556</standDev>
+    </Player>
+    <Player>
+        <playerId>549</playerId>
+        <position>SF</position>
+        <rankPos>36</rankPos>
+        <rankOverall>185</rankOverall>
+        <name>Danny Green</name>
+        <team>PHI</team>
+        <standDev>19.736</standDev>
+    </Player>
+    <Player>
+        <playerId>323</playerId>
+        <position>C</position>
+        <rankPos>47</rankPos>
+        <rankOverall>186</rankOverall>
+        <name>Enes Kanter</name>
+        <team>POR</team>
+        <standDev>20.154</standDev>
+    </Player>
+    <Player>
+        <playerId>299</playerId>
+        <position>C</position>
+        <rankPos>48</rankPos>
+        <rankOverall>187</rankOverall>
+        <name>Nemanja Bjelica</name>
+        <team>SAC</team>
+        <standDev>17.626</standDev>
+    </Player>
+    <Player>
+        <playerId>284</playerId>
+        <position>SG</position>
+        <rankPos>35</rankPos>
+        <rankOverall>188</rankOverall>
+        <name>Gary Harris</name>
+        <team>DEN</team>
+        <standDev>11.091</standDev>
+    </Player>
+    <Player>
+        <playerId>624</playerId>
+        <position>SF</position>
+        <rankPos>37</rankPos>
+        <rankOverall>189</rankOverall>
+        <name>Luke Kennard</name>
+        <team>LAC</team>
+        <standDev>28.535</standDev>
+    </Player>
+    <Player>
+        <playerId>938</playerId>
+        <position>SF</position>
+        <rankPos>38</rankPos>
+        <rankOverall>190</rankOverall>
+        <name>Jarrett Culver</name>
+        <team>MIN</team>
+        <standDev>10.371</standDev>
+    </Player>
+    <Player>
+        <playerId>959</playerId>
+        <position>PF</position>
+        <rankPos>36</rankPos>
+        <rankOverall>191</rankOverall>
+        <name>Cameron Johnson</name>
+        <team>PHX</team>
+        <standDev>16.619</standDev>
+    </Player>
+    <Player>
+        <playerId>915</playerId>
+        <position>SF</position>
+        <rankPos>39</rankPos>
+        <rankOverall>192</rankOverall>
+        <name>De'Andre Hunter</name>
+        <team>ATL</team>
+        <standDev>22.387</standDev>
+    </Player>
+    <Player>
+        <playerId>193</playerId>
+        <position>C</position>
+        <rankPos>49</rankPos>
+        <rankOverall>193</rankOverall>
+        <name>Dwight Howard</name>
+        <team>PHI</team>
+        <standDev>31.124</standDev>
+    </Player>
+    <Player>
+        <playerId>450</playerId>
+        <position>C</position>
+        <rankPos>50</rankPos>
+        <rankOverall>194</rankOverall>
+        <name>Willie Cauley-Stein</name>
+        <team>DAL</team>
+        <standDev>30.992</standDev>
+    </Player>
+    <Player>
+        <playerId>572</playerId>
+        <position>F</position>
+        <rankPos>1</rankPos>
+        <rankOverall>195</rankOverall>
+        <name>Danuel House</name>
+        <team>HOU</team>
+        <standDev>21.668</standDev>
+    </Player>
+    <Player>
+        <playerId>709</playerId>
+        <position>PF</position>
+        <rankPos>37</rankPos>
+        <rankOverall>196</rankOverall>
+        <name>Maximilian Kleber</name>
+        <team>DAL</team>
+        <standDev>18.453</standDev>
+    </Player>
+    <Player>
+        <playerId>455</playerId>
+        <position>PF</position>
+        <rankPos>38</rankPos>
+        <rankOverall>197</rankOverall>
+        <name>Rudy Gay</name>
+        <team>SAS</team>
+        <standDev>18.335</standDev>
+    </Player>
+    <Player>
+        <playerId>544</playerId>
+        <position>C</position>
+        <rankPos>51</rankPos>
+        <rankOverall>198</rankOverall>
+        <name>Dewayne Dedmon</name>
+        <team>ATL</team>
+        <standDev>17.088</standDev>
+    </Player>
+    <Player>
+        <playerId>979</playerId>
+        <position>C</position>
+        <rankPos>52</rankPos>
+        <rankOverall>199</rankOverall>
+        <name>Jaxson Hayes</name>
+        <team>NOP</team>
+        <standDev>20.273</standDev>
+    </Player>
+    <Player>
+        <playerId>134</playerId>
+        <position>SF</position>
+        <rankPos>40</rankPos>
+        <rankOverall>200</rankOverall>
+        <name>Kentavious Caldwell-Pope</name>
+        <team>LAL</team>
+        <standDev>27.462</standDev>
+    </Player>
+    <Player>
+        <playerId>244</playerId>
+        <position>PF</position>
+        <rankPos>39</rankPos>
+        <rankOverall>201</rankOverall>
+        <name>Justise Winslow</name>
+        <team>MEM</team>
+        <standDev>40.524</standDev>
+    </Player>
+    <Player>
+        <playerId>147</playerId>
+        <position>PF</position>
+        <rankPos>40</rankPos>
+        <rankOverall>202</rankOverall>
+        <name>Marcus Morris</name>
+        <team>LAC</team>
+        <standDev>10.863</standDev>
+    </Player>
+    <Player>
+        <playerId>662</playerId>
+        <position>PG</position>
+        <rankPos>34</rankPos>
+        <rankOverall>203</rankOverall>
+        <name>Monte Morris</name>
+        <team>DEN</team>
+        <standDev>27.341</standDev>
+    </Player>
+    <Player>
+        <playerId>200</playerId>
+        <position>PF</position>
+        <rankPos>41</rankPos>
+        <rankOverall>204</rankOverall>
+        <name>Taurean Prince</name>
+        <team>BKN</team>
+        <standDev>24.513</standDev>
+    </Player>
+    <Player>
+        <playerId>104</playerId>
+        <position>PG</position>
+        <rankPos>35</rankPos>
+        <rankOverall>205</rankOverall>
+        <name>Rajon Rondo</name>
+        <team>ATL</team>
+        <standDev>34.076</standDev>
+    </Player>
+    <Player>
+        <playerId>43</playerId>
+        <position>SF</position>
+        <rankPos>41</rankPos>
+        <rankOverall>206</rankOverall>
+        <name>Justin Holiday</name>
+        <team>IND</team>
+        <standDev>33.581</standDev>
+    </Player>
+    <Player>
+        <playerId>103</playerId>
+        <position>C</position>
+        <rankPos>53</rankPos>
+        <rankOverall>207</rankOverall>
+        <name>Bobby Portis</name>
+        <team>MIL</team>
+        <standDev>14.149</standDev>
+    </Player>
+    <Player>
+        <playerId>85</playerId>
+        <position>C</position>
+        <rankPos>54</rankPos>
+        <rankOverall>208</rankOverall>
+        <name>Jakob Poeltl</name>
+        <team>SAS</team>
+        <standDev>31.092</standDev>
+    </Player>
+    <Player>
+        <playerId>903</playerId>
+        <position>PF</position>
+        <rankPos>42</rankPos>
+        <rankOverall>209</rankOverall>
+        <name>Sekou Doumbouya</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>380</playerId>
+        <position>C</position>
+        <rankPos>55</rankPos>
+        <rankOverall>210</rankOverall>
+        <name>Kevon Looney</name>
+        <team>GSW</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>676</playerId>
+        <position>PF</position>
+        <rankPos>43</rankPos>
+        <rankOverall>211</rankOverall>
+        <name>Royce O'Neale</name>
+        <team>UTA</team>
+        <standDev>11.314</standDev>
+    </Player>
+    <Player>
+        <playerId>148</playerId>
+        <position>PG</position>
+        <rankPos>36</rankPos>
+        <rankOverall>212</rankOverall>
+        <name>Ish Smith</name>
+        <team>WAS</team>
+        <standDev>28.756</standDev>
+    </Player>
+    <Player>
+        <playerId>343</playerId>
+        <position>PF</position>
+        <rankPos>44</rankPos>
+        <rankOverall>213</rankOverall>
+        <name>Meyers Leonard</name>
+        <team>MIA</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>826</playerId>
+        <position>SG</position>
+        <rankPos>36</rankPos>
+        <rankOverall>214</rankOverall>
+        <name>De'Anthony Melton</name>
+        <team>MEM</team>
+        <standDev>35.591</standDev>
+    </Player>
+    <Player>
+        <playerId>940</playerId>
+        <position>PF</position>
+        <rankPos>45</rankPos>
+        <rankOverall>215</rankOverall>
+        <name>Darius Bazley</name>
+        <team>OKC</team>
+        <standDev>23.570</standDev>
+    </Player>
+    <Player>
+        <playerId>440</playerId>
+        <position>SF</position>
+        <rankPos>42</rankPos>
+        <rankOverall>216</rankOverall>
+        <name>Derrick Jones</name>
+        <team>POR</team>
+        <standDev>40.546</standDev>
+    </Player>
+    <Player>
+        <playerId>208</playerId>
+        <position>PF</position>
+        <rankPos>46</rankPos>
+        <rankOverall>217</rankOverall>
+        <name>Nicolas Batum</name>
+        <team>LAC</team>
+        <standDev>5.657</standDev>
+    </Player>
+    <Player>
+        <playerId>434</playerId>
+        <position>C</position>
+        <rankPos>56</rankPos>
+        <rankOverall>218</rankOverall>
+        <name>Marquese Chriss</name>
+        <team>GSW</team>
+        <standDev>55.107</standDev>
+    </Player>
+    <Player>
+        <playerId>691</playerId>
+        <position>SF</position>
+        <rankPos>43</rankPos>
+        <rankOverall>219</rankOverall>
+        <name>Josh Hart</name>
+        <team>NOP</team>
+        <standDev>8.437</standDev>
+    </Player>
+    <Player>
+        <playerId>950</playerId>
+        <position>PF</position>
+        <rankPos>47</rankPos>
+        <rankOverall>220</rankOverall>
+        <name>Eric Paschall</name>
+        <team>GSW</team>
+        <standDev>16.971</standDev>
+    </Player>
+    <Player>
+        <playerId>14</playerId>
+        <position>C</position>
+        <rankPos>57</rankPos>
+        <rankOverall>221</rankOverall>
+        <name>Kelly Olynyk</name>
+        <team>MIA</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>670</playerId>
+        <position>C</position>
+        <rankPos>58</rankPos>
+        <rankOverall>222</rankOverall>
+        <name>Zach Collins</name>
+        <team>POR</team>
+        <standDev>22.465</standDev>
+    </Player>
+    <Player>
+        <playerId>883</playerId>
+        <position>C</position>
+        <rankPos>59</rankPos>
+        <rankOverall>223</rankOverall>
+        <name>Nicolas Claxton</name>
+        <team>BKN</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>702</playerId>
+        <position>C</position>
+        <rankPos>60</rankPos>
+        <rankOverall>224</rankOverall>
+        <name>Harry Giles</name>
+        <team>POR</team>
+        <standDev>0.471</standDev>
+    </Player>
+    <Player>
+        <playerId>789</playerId>
+        <position>C</position>
+        <rankPos>61</rankPos>
+        <rankOverall>225</rankOverall>
+        <name>Mohamed Bamba</name>
+        <team>ORL</team>
+        <standDev>42.898</standDev>
+    </Player>
+    <Player>
+        <playerId>1036</playerId>
+        <position>SF</position>
+        <rankPos>44</rankPos>
+        <rankOverall>226</rankOverall>
+        <name>Deni Avdija</name>
+        <team>WAS</team>
+        <standDev>34.413</standDev>
+    </Player>
+    <Player>
+        <playerId>352</playerId>
+        <position>SG</position>
+        <rankPos>37</rankPos>
+        <rankOverall>227</rankOverall>
+        <name>Alec Burks</name>
+        <team>NYK</team>
+        <standDev>19.702</standDev>
+    </Player>
+    <Player>
+        <playerId>801</playerId>
+        <position>SF</position>
+        <rankPos>45</rankPos>
+        <rankOverall>228</rankOverall>
+        <name>Josh Okogie</name>
+        <team>MIN</team>
+        <standDev>24.042</standDev>
+    </Player>
+    <Player>
+        <playerId>1008</playerId>
+        <position>F</position>
+        <rankPos>2</rankPos>
+        <rankOverall>229</rankOverall>
+        <name>Nicolo Melli</name>
+        <team>NOP</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>905</playerId>
+        <position>C</position>
+        <rankPos>62</rankPos>
+        <rankOverall>230</rankOverall>
+        <name>Goga Bitadze</name>
+        <team>IND</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>232</playerId>
+        <position>PF</position>
+        <rankPos>48</rankPos>
+        <rankOverall>231</rankOverall>
+        <name>James Johnson</name>
+        <team>DAL</team>
+        <standDev>17.913</standDev>
+    </Player>
+    <Player>
+        <playerId>442</playerId>
+        <position>C</position>
+        <rankPos>63</rankPos>
+        <rankOverall>232</rankOverall>
+        <name>Alex Len</name>
+        <team>TOR</team>
+        <standDev>9.899</standDev>
+    </Player>
+    <Player>
+        <playerId>304</playerId>
+        <position>PG</position>
+        <rankPos>37</rankPos>
+        <rankOverall>233</rankOverall>
+        <name>Tyus Jones</name>
+        <team>MEM</team>
+        <standDev>1.886</standDev>
+    </Player>
+    <Player>
+        <playerId>301</playerId>
+        <position>C</position>
+        <rankPos>64</rankPos>
+        <rankOverall>234</rankOverall>
+        <name>Gorgui Dieng</name>
+        <team>MEM</team>
+        <standDev>24.984</standDev>
+    </Player>
+    <Player>
+        <playerId>540</playerId>
+        <position>SF</position>
+        <rankPos>46</rankPos>
+        <rankOverall>235</rankOverall>
+        <name>Kyle Anderson</name>
+        <team>MEM</team>
+        <standDev>3.300</standDev>
+    </Player>
+    <Player>
+        <playerId>187</playerId>
+        <position>SF</position>
+        <rankPos>47</rankPos>
+        <rankOverall>236</rankOverall>
+        <name>Kent Bazemore</name>
+        <team>GSW</team>
+        <standDev>15.085</standDev>
+    </Player>
+    <Player>
+        <playerId>246</playerId>
+        <position>PG</position>
+        <rankPos>38</rankPos>
+        <rankOverall>237</rankOverall>
+        <name>D.J. Augustin</name>
+        <team>MIL</team>
+        <standDev>1.886</standDev>
+    </Player>
+    <Player>
+        <playerId>1063</playerId>
+        <position>SG</position>
+        <rankPos>38</rankPos>
+        <rankOverall>238</rankOverall>
+        <name>Kira Lewis Jr.</name>
+        <team>NOP</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>302</playerId>
+        <position>SF</position>
+        <rankPos>48</rankPos>
+        <rankOverall>239</rankOverall>
+        <name>Kris Dunn</name>
+        <team>ATL</team>
+        <standDev>30.641</standDev>
+    </Player>
+    <Player>
+        <playerId>181</playerId>
+        <position>PF</position>
+        <rankPos>49</rankPos>
+        <rankOverall>240</rankOverall>
+        <name>Jabari Parker</name>
+        <team>SAC</team>
+        <standDev>10.842</standDev>
+    </Player>
+    <Player>
+        <playerId>1035</playerId>
+        <position>SG</position>
+        <rankPos>39</rankPos>
+        <rankOverall>241</rankOverall>
+        <name>Cole Anthony</name>
+        <team>ORL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>317</playerId>
+        <position>SG</position>
+        <rankPos>40</rankPos>
+        <rankOverall>242</rankOverall>
+        <name>Alex Caruso</name>
+        <team>LAL</team>
+        <standDev>52.842</standDev>
+    </Player>
+    <Player>
+        <playerId>997</playerId>
+        <position>C</position>
+        <rankPos>65</rankPos>
+        <rankOverall>243</rankOverall>
+        <name>Naz Reid</name>
+        <team>MIN</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>642</playerId>
+        <position>SG</position>
+        <rankPos>41</rankPos>
+        <rankOverall>244</rankOverall>
+        <name>Malik Monk</name>
+        <team>CHA</team>
+        <standDev>7.542</standDev>
+    </Player>
+    <Player>
+        <playerId>754</playerId>
+        <position>PF</position>
+        <rankPos>50</rankPos>
+        <rankOverall>245</rankOverall>
+        <name>Kevin Knox</name>
+        <team>NYK</team>
+        <standDev>12.728</standDev>
+    </Player>
+    <Player>
+        <playerId>269</playerId>
+        <position>C</position>
+        <rankPos>66</rankPos>
+        <rankOverall>246</rankOverall>
+        <name>Markieff Morris</name>
+        <team>LAL</team>
+        <standDev>4.714</standDev>
+    </Player>
+    <Player>
+        <playerId>808</playerId>
+        <position>SF</position>
+        <rankPos>49</rankPos>
+        <rankOverall>247</rankOverall>
+        <name>Gary Trent Jr.</name>
+        <team>POR</team>
+        <standDev>26.636</standDev>
+    </Player>
+    <Player>
+        <playerId>1052</playerId>
+        <position>C</position>
+        <rankPos>67</rankPos>
+        <rankOverall>248</rankOverall>
+        <name>Jalen Smith</name>
+        <team>PHX</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>360</playerId>
+        <position>SF</position>
+        <rankPos>50</rankPos>
+        <rankOverall>249</rankOverall>
+        <name>Rodney Hood</name>
+        <team>POR</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>222</playerId>
+        <position>F</position>
+        <rankPos>3</rankPos>
+        <rankOverall>250</rankOverall>
+        <name>Marvin Williams</name>
+        <team>MIL</team>
+        <standDev>2.357</standDev>
+    </Player>
+    <Player>
+        <playerId>766</playerId>
+        <position>SF</position>
+        <rankPos>51</rankPos>
+        <rankOverall>251</rankOverall>
+        <name>Bruce Brown</name>
+        <team>BKN</team>
+        <standDev>19.328</standDev>
+    </Player>
+    <Player>
+        <playerId>976</playerId>
+        <position>SG</position>
+        <rankPos>42</rankPos>
+        <rankOverall>252</rankOverall>
+        <name>Nickeil Alexander-Walker</name>
+        <team>NOP</team>
+        <standDev>1.886</standDev>
+    </Player>
+    <Player>
+        <playerId>756</playerId>
+        <position>PG</position>
+        <rankPos>39</rankPos>
+        <rankOverall>253</rankOverall>
+        <name>Shake Milton</name>
+        <team>PHI</team>
+        <standDev>21.213</standDev>
+    </Player>
+    <Player>
+        <playerId>359</playerId>
+        <position>SG</position>
+        <rankPos>43</rankPos>
+        <rankOverall>254</rankOverall>
+        <name>George Hill</name>
+        <team>OKC</team>
+        <standDev>4.714</standDev>
+    </Player>
+    <Player>
+        <playerId>141</playerId>
+        <position>SG</position>
+        <rankPos>44</rankPos>
+        <rankOverall>255</rankOverall>
+        <name>Reggie Jackson</name>
+        <team>LAC</team>
+        <standDev>13.671</standDev>
+    </Player>
+    <Player>
+        <playerId>638</playerId>
+        <position>SF</position>
+        <rankPos>52</rankPos>
+        <rankOverall>256</rankOverall>
+        <name>Dwayne Bacon</name>
+        <team>ORL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>404</playerId>
+        <position>SG</position>
+        <rankPos>45</rankPos>
+        <rankOverall>257</rankOverall>
+        <name>Austin Rivers</name>
+        <team>NYK</team>
+        <standDev>45.505</standDev>
+    </Player>
+    <Player>
+        <playerId>1024</playerId>
+        <position>PF</position>
+        <rankPos>51</rankPos>
+        <rankOverall>258</rankOverall>
+        <name>Saddiq Bey</name>
+        <team>DET</team>
+        <standDev>1.886</standDev>
+    </Player>
+    <Player>
+        <playerId>80</playerId>
+        <position>SG</position>
+        <rankPos>46</rankPos>
+        <rankOverall>259</rankOverall>
+        <name>Cory Joseph</name>
+        <team>SAC</team>
+        <standDev>23.570</standDev>
+    </Player>
+    <Player>
+        <playerId>941</playerId>
+        <position>SF</position>
+        <rankPos>53</rankPos>
+        <rankOverall>260</rankOverall>
+        <name>Luguentz Dort</name>
+        <team>OKC</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>341</playerId>
+        <position>PF</position>
+        <rankPos>52</rankPos>
+        <rankOverall>261</rankOverall>
+        <name>Maurice Harkless</name>
+        <team>MIA</team>
+        <standDev>11.785</standDev>
+    </Player>
+    <Player>
+        <playerId>251</playerId>
+        <position>C</position>
+        <rankPos>68</rankPos>
+        <rankOverall>262</rankOverall>
+        <name>Jeff Green</name>
+        <team>BKN</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>188</playerId>
+        <position>SF</position>
+        <rankPos>54</rankPos>
+        <rankOverall>263</rankOverall>
+        <name>DeAndre Bembry</name>
+        <team>TOR</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>512</playerId>
+        <position>C</position>
+        <rankPos>69</rankPos>
+        <rankOverall>264</rankOverall>
+        <name>JaMychal Green</name>
+        <team>DEN</team>
+        <standDev>20.742</standDev>
+    </Player>
+    <Player>
+        <playerId>336</playerId>
+        <position>PF</position>
+        <rankPos>53</rankPos>
+        <rankOverall>265</rankOverall>
+        <name>Al-Farouq Aminu</name>
+        <team>ORL</team>
+        <standDev>1.414</standDev>
+    </Player>
+    <Player>
+        <playerId>751</playerId>
+        <position>C</position>
+        <rankPos>70</rankPos>
+        <rankOverall>266</rankOverall>
+        <name>Rodions Kurucs</name>
+        <team>BKN</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>711</playerId>
+        <position>PG</position>
+        <rankPos>40</rankPos>
+        <rankOverall>267</rankOverall>
+        <name>Dennis Smith Jr.</name>
+        <team>NYK</team>
+        <standDev>11.785</standDev>
+    </Player>
+    <Player>
+        <playerId>285</playerId>
+        <position>PF</position>
+        <rankPos>54</rankPos>
+        <rankOverall>268</rankOverall>
+        <name>Juancho Hernangomez</name>
+        <team>MIN</team>
+        <standDev>26.870</standDev>
+    </Player>
+    <Player>
+        <playerId>758</playerId>
+        <position>SF</position>
+        <rankPos>55</rankPos>
+        <rankOverall>269</rankOverall>
+        <name>Landry Shamet</name>
+        <team>BKN</team>
+        <standDev>32.056</standDev>
+    </Player>
+    <Player>
+        <playerId>478</playerId>
+        <position>SF</position>
+        <rankPos>56</rankPos>
+        <rankOverall>270</rankOverall>
+        <name>Wesley Matthews</name>
+        <team>LAL</team>
+        <standDev>12.257</standDev>
+    </Player>
+    <Player>
+        <playerId>1058</playerId>
+        <position>SF</position>
+        <rankPos>57</rankPos>
+        <rankOverall>271</rankOverall>
+        <name>Josh Green</name>
+        <team>DAL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>982</playerId>
+        <position>SF</position>
+        <rankPos>58</rankPos>
+        <rankOverall>272</rankOverall>
+        <name>Keldon Johnson</name>
+        <team>SAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>473</playerId>
+        <position>PF</position>
+        <rankPos>55</rankPos>
+        <rankOverall>273</rankOverall>
+        <name>Dorian Finney-Smith</name>
+        <team>DAL</team>
+        <standDev>1.886</standDev>
+    </Player>
+    <Player>
+        <playerId>820</playerId>
+        <position>SG</position>
+        <rankPos>47</rankPos>
+        <rankOverall>274</rankOverall>
+        <name>Sviatoslav Mykhailiuk</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>821</playerId>
+        <position>F</position>
+        <rankPos>4</rankPos>
+        <rankOverall>275</rankOverall>
+        <name>Moritz Wagner</name>
+        <team>LAL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>770</playerId>
+        <position>SG</position>
+        <rankPos>48</rankPos>
+        <rankOverall>276</rankOverall>
+        <name>Aaron Holiday</name>
+        <team>IND</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>145</playerId>
+        <position>C</position>
+        <rankPos>71</rankPos>
+        <rankOverall>277</rankOverall>
+        <name>Boban Marjanovic</name>
+        <team>DAL</team>
+        <standDev>5.657</standDev>
+    </Player>
+    <Player>
+        <playerId>890</playerId>
+        <position>SG</position>
+        <rankPos>49</rankPos>
+        <rankOverall>278</rankOverall>
+        <name>Terence Davis</name>
+        <team>TOR</team>
+        <standDev>26.870</standDev>
+    </Player>
+    <Player>
+        <playerId>882</playerId>
+        <position>C</position>
+        <rankPos>72</rankPos>
+        <rankOverall>279</rankOverall>
+        <name>Grant Williams</name>
+        <team>BOS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>67</playerId>
+        <position>PG</position>
+        <rankPos>41</rankPos>
+        <rankOverall>280</rankOverall>
+        <name>T.J. McConnell</name>
+        <team>IND</team>
+        <standDev>30.641</standDev>
+    </Player>
+    <Player>
+        <playerId>748</playerId>
+        <position>PG</position>
+        <rankPos>42</rankPos>
+        <rankOverall>281</rankOverall>
+        <name>Brad Wanamaker</name>
+        <team>GSW</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>239</playerId>
+        <position>G</position>
+        <rankPos>2</rankPos>
+        <rankOverall>282</rankOverall>
+        <name>Dion Waiters</name>
+        <team>LAL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>159</playerId>
+        <position>PF</position>
+        <rankPos>56</rankPos>
+        <rankOverall>283</rankOverall>
+        <name>Glenn Robinson III</name>
+        <team>SAC</team>
+        <standDev>19.328</standDev>
+    </Player>
+    <Player>
+        <playerId>608</playerId>
+        <position>SF</position>
+        <rankPos>59</rankPos>
+        <rankOverall>284</rankOverall>
+        <name>Frank Ntilikina</name>
+        <team>NYK</team>
+        <standDev>6.600</standDev>
+    </Player>
+    <Player>
+        <playerId>554</playerId>
+        <position>SG</position>
+        <rankPos>50</rankPos>
+        <rankOverall>285</rankOverall>
+        <name>Patty Mills</name>
+        <team>SAS</team>
+        <standDev>32.527</standDev>
+    </Player>
+    <Player>
+        <playerId>853</playerId>
+        <position>SF</position>
+        <rankPos>60</rankPos>
+        <rankOverall>286</rankOverall>
+        <name>Lonnie Walker IV</name>
+        <team>SAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>463</playerId>
+        <position>SF</position>
+        <rankPos>61</rankPos>
+        <rankOverall>287</rankOverall>
+        <name>Garrett Temple</name>
+        <team>CHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>347</playerId>
+        <position>G</position>
+        <rankPos>3</rankPos>
+        <rankOverall>288</rankOverall>
+        <name>Shabazz Napier</name>
+        <team>WAS</team>
+        <standDev>47.140</standDev>
+    </Player>
+    <Player>
+        <playerId>214</playerId>
+        <position>C</position>
+        <rankPos>73</rankPos>
+        <rankOverall>289</rankOverall>
+        <name>Frank Kaminsky III</name>
+        <team>SAC</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>172</playerId>
+        <position>SG</position>
+        <rankPos>51</rankPos>
+        <rankOverall>290</rankOverall>
+        <name>Michael Carter-Williams</name>
+        <team>ORL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>233</playerId>
+        <position>PG</position>
+        <rankPos>43</rankPos>
+        <rankOverall>291</rankOverall>
+        <name>Tyler Johnson</name>
+        <team>BKN</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>247</playerId>
+        <position>C</position>
+        <rankPos>74</rankPos>
+        <rankOverall>292</rankOverall>
+        <name>Bismack Biyombo</name>
+        <team>CHA</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>174</playerId>
+        <position>F</position>
+        <rankPos>5</rankPos>
+        <rankOverall>293</rankOverall>
+        <name>John Henson</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>693</playerId>
+        <position>SF</position>
+        <rankPos>62</rankPos>
+        <rankOverall>294</rankOverall>
+        <name>Josh Jackson</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>807</playerId>
+        <position>SG</position>
+        <rankPos>52</rankPos>
+        <rankOverall>295</rankOverall>
+        <name>Anfernee Simons</name>
+        <team>POR</team>
+        <standDev>2.828</standDev>
+    </Player>
+    <Player>
+        <playerId>723</playerId>
+        <position>SG</position>
+        <rankPos>53</rankPos>
+        <rankOverall>296</rankOverall>
+        <name>Frank Jackson</name>
+        <team>OKC</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>215</playerId>
+        <position>PF</position>
+        <rankPos>57</rankPos>
+        <rankOverall>297</rankOverall>
+        <name>Michael Kidd-Gilchrist</name>
+        <team>NYK</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>265</playerId>
+        <position>PG</position>
+        <rankPos>44</rankPos>
+        <rankOverall>298</rankOverall>
+        <name>Trey Burke</name>
+        <team>DAL</team>
+        <standDev>56.097</standDev>
+    </Player>
+    <Player>
+        <playerId>2</playerId>
+        <position>SF</position>
+        <rankPos>63</rankPos>
+        <rankOverall>299</rankOverall>
+        <name>Avery Bradley</name>
+        <team>MIA</team>
+        <standDev>15.085</standDev>
+    </Player>
+    <Player>
+        <playerId>678</playerId>
+        <position>F</position>
+        <rankPos>6</rankPos>
+        <rankOverall>300</rankOverall>
+        <name>Jordan Bell</name>
+        <team>LAL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>97</playerId>
+        <position>F</position>
+        <rankPos>7</rankPos>
+        <rankOverall>301</rankOverall>
+        <name>Taj Gibson</name>
+        <team>NYK</team>
+        <standDev>34.413</standDev>
+    </Player>
+    <Player>
+        <playerId>467</playerId>
+        <position>SG</position>
+        <rankPos>54</rankPos>
+        <rankOverall>302</rankOverall>
+        <name>J.J. Barea</name>
+        <team>DAL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>1026</playerId>
+        <position>C</position>
+        <rankPos>75</rankPos>
+        <rankOverall>303</rankOverall>
+        <name>Isaiah Stewart</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>831</playerId>
+        <position>SG</position>
+        <rankPos>55</rankPos>
+        <rankOverall>304</rankOverall>
+        <name>Jalen Brunson</name>
+        <team>DAL</team>
+        <standDev>22.156</standDev>
+    </Player>
+    <Player>
+        <playerId>1043</playerId>
+        <position>PF</position>
+        <rankPos>58</rankPos>
+        <rankOverall>305</rankOverall>
+        <name>Aleksej Pokusevski</name>
+        <team>OKC</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>290</playerId>
+        <position>G</position>
+        <rankPos>4</rankPos>
+        <rankOverall>306</rankOverall>
+        <name>Emmanuel Mudiay</name>
+        <team>UTA</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>733</playerId>
+        <position>SF</position>
+        <rankPos>64</rankPos>
+        <rankOverall>307</rankOverall>
+        <name>Alfonzo McKinnie</name>
+        <team>LAL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>106</playerId>
+        <position>SF</position>
+        <rankPos>65</rankPos>
+        <rankOverall>308</rankOverall>
+        <name>Tony Snell</name>
+        <team>ATL</team>
+        <standDev>1.414</standDev>
+    </Player>
+    <Player>
+        <playerId>268</playerId>
+        <position>C</position>
+        <rankPos>76</rankPos>
+        <rankOverall>309</rankOverall>
+        <name>Ian Mahinmi</name>
+        <team>WAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>376</playerId>
+        <position>PF</position>
+        <rankPos>59</rankPos>
+        <rankOverall>310</rankOverall>
+        <name>Andre Iguodala</name>
+        <team>MIA</team>
+        <standDev>4.714</standDev>
+    </Player>
+    <Player>
+        <playerId>322</playerId>
+        <position>F</position>
+        <rankPos>8</rankPos>
+        <rankOverall>311</rankOverall>
+        <name>Ersan Ilyasova</name>
+        <team>MIL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>529</playerId>
+        <position>SG</position>
+        <rankPos>56</rankPos>
+        <rankOverall>312</rankOverall>
+        <name>Langston Galloway</name>
+        <team>PHX</team>
+        <standDev>35.827</standDev>
+    </Player>
+    <Player>
+        <playerId>510</playerId>
+        <position>SF</position>
+        <rankPos>66</rankPos>
+        <rankOverall>313</rankOverall>
+        <name>James Ennis</name>
+        <team>ORL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>126</playerId>
+        <position>SG</position>
+        <rankPos>57</rankPos>
+        <rankOverall>314</rankOverall>
+        <name>Jordan McRae</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>438</playerId>
+        <position>G</position>
+        <rankPos>5</rankPos>
+        <rankOverall>315</rankOverall>
+        <name>Shaquille Harrison</name>
+        <team>CHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>29</playerId>
+        <position>C</position>
+        <rankPos>77</rankPos>
+        <rankOverall>316</rankOverall>
+        <name>Rondae Hollis-Jefferson</name>
+        <team>MIN</team>
+        <standDev>15.556</standDev>
+    </Player>
+    <Player>
+        <playerId>545</playerId>
+        <position>SG</position>
+        <rankPos>58</rankPos>
+        <rankOverall>317</rankOverall>
+        <name>Bryn Forbes</name>
+        <team>MIL</team>
+        <standDev>19.328</standDev>
+    </Player>
+    <Player>
+        <playerId>107</playerId>
+        <position>SG</position>
+        <rankPos>59</rankPos>
+        <rankOverall>318</rankOverall>
+        <name>Denzel Valentine</name>
+        <team>CHI</team>
+        <standDev>24.984</standDev>
+    </Player>
+    <Player>
+        <playerId>101</playerId>
+        <position>PF</position>
+        <rankPos>60</rankPos>
+        <rankOverall>319</rankOverall>
+        <name>Doug McDermott</name>
+        <team>IND</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>17</playerId>
+        <position>PG</position>
+        <rankPos>45</rankPos>
+        <rankOverall>320</rankOverall>
+        <name>Isaiah Thomas</name>
+        <team>WAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>627</playerId>
+        <position>PF</position>
+        <rankPos>61</rankPos>
+        <rankOverall>321</rankOverall>
+        <name>T.J. Leaf</name>
+        <team>OKC</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>337</playerId>
+        <position>SF</position>
+        <rankPos>67</rankPos>
+        <rankOverall>322</rankOverall>
+        <name>Pat Connaughton</name>
+        <team>MIL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>874</playerId>
+        <position>G</position>
+        <rankPos>6</rankPos>
+        <rankOverall>323</rankOverall>
+        <name>Kenrich Williams</name>
+        <team>OKC</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>612</playerId>
+        <position>SG</position>
+        <rankPos>60</rankPos>
+        <rankOverall>324</rankOverall>
+        <name>Furkan Korkmaz</name>
+        <team>PHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>542</playerId>
+        <position>SG</position>
+        <rankPos>61</rankPos>
+        <rankOverall>325</rankOverall>
+        <name>Ryan Arcidiacono</name>
+        <team>CHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>893</playerId>
+        <position>C</position>
+        <rankPos>78</rankPos>
+        <rankOverall>326</rankOverall>
+        <name>Daniel Gafford</name>
+        <team>CHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>364</playerId>
+        <position>C</position>
+        <rankPos>79</rankPos>
+        <rankOverall>327</rankOverall>
+        <name>Trey Lyles</name>
+        <team>SAS</team>
+        <standDev>10.842</standDev>
+    </Player>
+    <Player>
+        <playerId>42</playerId>
+        <position>C</position>
+        <rankPos>80</rankPos>
+        <rankOverall>328</rankOverall>
+        <name>Willy Hernangomez</name>
+        <team>NOP</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>459</playerId>
+        <position>SF</position>
+        <rankPos>68</rankPos>
+        <rankOverall>329</rankOverall>
+        <name>Ben McLemore</name>
+        <team>HOU</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>339</playerId>
+        <position>C</position>
+        <rankPos>81</rankPos>
+        <rankOverall>330</rankOverall>
+        <name>Ed Davis</name>
+        <team>MIN</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>535</playerId>
+        <position>SF</position>
+        <rankPos>69</rankPos>
+        <rankOverall>331</rankOverall>
+        <name>E'Twaun Moore</name>
+        <team>PHX</team>
+        <standDev>19.799</standDev>
+    </Player>
+    <Player>
+        <playerId>12</playerId>
+        <position>SG</position>
+        <rankPos>62</rankPos>
+        <rankOverall>332</rankOverall>
+        <name>Damion Lee</name>
+        <team>GSW</team>
+        <standDev>7.071</standDev>
+    </Player>
+    <Player>
+        <playerId>100</playerId>
+        <position>C</position>
+        <rankPos>82</rankPos>
+        <rankOverall>333</rankOverall>
+        <name>Robin Lopez</name>
+        <team>WAS</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>350</playerId>
+        <position>PF</position>
+        <rankPos>62</rankPos>
+        <rankOverall>334</rankOverall>
+        <name>Noah Vonleh</name>
+        <team>CHI</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>69</playerId>
+        <position>C</position>
+        <rankPos>83</rankPos>
+        <rankOverall>335</rankOverall>
+        <name>Jahlil Okafor</name>
+        <team>DET</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>809</playerId>
+        <position>SG</position>
+        <rankPos>63</rankPos>
+        <rankOverall>336</rankOverall>
+        <name>Grayson Allen</name>
+        <team>MEM</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>660</playerId>
+        <position>SF</position>
+        <rankPos>70</rankPos>
+        <rankOverall>337</rankOverall>
+        <name>Torrey Craig</name>
+        <team>MIL</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>328</playerId>
+        <position>PG</position>
+        <rankPos>46</rankPos>
+        <rankOverall>338</rankOverall>
+        <name>Cameron Payne</name>
+        <team>PHX</team>
+        <standDev>0.000</standDev>
+    </Player>
+    <Player>
+        <playerId>842</playerId>
+        <position>SG</position>
+        <rankPos>64</rankPos>
+        <rankOverall>339</rankOverall>
+        <name>Jevon Carter</name>
+        <team>PHX</team>
+        <standDev>0.000</standDev>
+    </Player>
+</FantasyBasketballNerd>
